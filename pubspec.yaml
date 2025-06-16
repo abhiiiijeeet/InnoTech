@@ -35,7 +35,7 @@ dependencies:
   shared_preferences: ^2.0.6
   flutter_local_notifications: ^15.0.0
 
-  share: ^2.0.4  # Add this line for sharing functionality
+  share: ^2.0.4 
 
 
 
